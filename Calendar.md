@@ -154,7 +154,7 @@
 
 
 <tr>
- <td style="width:100%"> <strong> ** Spring Break March 13-16 ** </strong> </td>
+ <td> <tr style="width:100%"> <strong> ** Spring Break March 13-16 ** </strong> </td>
 </tr>
 
 
@@ -250,18 +250,17 @@
 
 <tr>	
 	<td> 13 </td>
-	<strong> Final Project: Working Prototype Due <br> </strong>
-	Topics by Request <br>
 	<td valign="top">April 25<br>
-	<strong>	
- 	Topics by Request
+	<strong>
+	Final Project: Working Prototype Due <br> 
+ 	Topics by Request <br>
 	</strong>	
 	</td>
 
 
 	<td valign="top">April 27<br>
 	<strong>
-	Topics by Request
+	Topics by Request <br>
 	</strong>
 	</td>	
 </tr>
