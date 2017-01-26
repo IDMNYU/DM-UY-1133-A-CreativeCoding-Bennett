@@ -153,8 +153,8 @@
 </tr>
 
 
-<tr>
- <td style="width:100%"> <strong> ** Spring Break March 13-16 ** </strong> </td>
+<tr style = "width:100%"">
+ <td > <strong> **Spring Break March 13-16** </strong> </td>
 </tr>
 
 
