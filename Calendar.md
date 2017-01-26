@@ -16,11 +16,11 @@
 <tr>
 	<td> 1 </td>
 	
-	<td valign="top"><a href="week_1_detail_A.md">Jan 24</a><br><strong>No Class</strong>
+	<td valign="top"><a href="week_1_detail.md">Jan 24</a><br><strong>No Class</strong>
 	</td>
 	
 
-	<td valign="top"><a href="week_1_detail_B.md">Jan 26</a><br><strong>Course and Student Introductions<br>
+	<td valign="top"><a href="week_1_detail.md">Jan 26</a><br><strong>Course and Student Introductions<br>
 	Overview of Course<br>
 	In-Class Challenge</strong>
 	</td>
@@ -31,14 +31,14 @@
 <tr>
 	<td> 2 </td>
 
-	<td valign="top"><a href="week_2_detail_A.md">Jan 31</a><br><strong>
+	<td valign="top"><a href="week_2_detail.md">Jan 31</a><br><strong>
 	Introduction to Processing <br>
 	Graphic basics + Variables <br>
 	</strong>
 	</td>
 
-	<td valign="top"><a href="week_2_detail_B.md">Feb </a> 2<br><strong>
-	Exercise 1 Due <br>
+	<td valign="top"><a href="week_2_detail.md">Feb 2</a><br><strong>
+	
 	Github + Turning in Assignments <br>
 	Control Statements<br>
 	Operators<br>
@@ -53,6 +53,7 @@
 	<td> 3 </td>
 
 	<td valign="top"><a href="week_3_detail_A.md">Feb 7</a><br><strong>
+	Exercise 1 Due <br>
 	Loops <br>
 	Comments <br>
 	In-class Challenge <br>
@@ -76,6 +77,7 @@
 	<td> 4 </td>
 
 	<td valign="top"><a href="week_4_detail_A.md">Feb 14</a><br><strong>
+	Exercise 2 Due <br>
 	Intro to P5 <br>
 	Matrix Transformations <br>
 	Functions + passing parameters <br>
@@ -152,7 +154,7 @@
 
 
 <tr>
-<td> <strong> ** Spring Break March 13-16 ** </strong> </td>
+ <strong> ** Spring Break March 13-16 ** </strong> 
 </tr>
 
 
@@ -215,14 +217,14 @@
 
 	<td valign="top"><a href="week_11_detail_A.md">April 11</a><br>
 	<strong>
-	Roundtable for Final Projects	
+	<a href = "RoundTable.md">Roundtable for Final Projects	</a>
 	</strong>	
 	</td>
 
 
 	<td valign="top"><a href="week_11_detail_B.md">April 13</a><br>
 	<strong>
-	Roundtable for Final Projecs	
+	<a href = "RoundTable.md">Roundtable for Final Projects	</a>
 	</strong>
 	</td>
 </tr>
@@ -248,10 +250,11 @@
 
 <tr>	
 	<td> 13 </td>
+	<strong> Final Project: Working Prototype Due <br> </strong>
 	Topics by Request <br>
 	<td valign="top">April 25<br>
 	<strong>	
-
+ 	Topics by Request
 	</strong>	
 	</td>
 

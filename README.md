@@ -198,12 +198,12 @@ If you use code from online, whether for inspiration, modification or reference,
 
 Do the follow these steps for each assignment:
 
-	0. Save your work AND all of the necessary support files (index.html, libraries folder, pictures, media, etc) in a folder that is titled in this manner:
+	* 0. Save your work AND all of the necessary support files (index.html, libraries folder, pictures, media, etc) in a folder that is titled in this manner:
 					*YourFirstNameYourLastName_Ex1*, etc.
-	1. Upload this folder to a new repository on your GitHub account titled:
+	* 1. Upload this folder to a new repository on your GitHub account titled:
 					*CreativeCoding_Ex1*
-	2. Create a new repository on your GitHub account online. The repository should be titled CC_Ex#, filling in the number of the exercise. Include the README.md option
-	3. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
+	* 2. Create a new repository on your GitHub account online. The repository should be titled CC_Ex#, filling in the number of the exercise. Include the README.md option
+	* 3. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
 
 ##[Show and Tell](ShowAndTell.md)
 
