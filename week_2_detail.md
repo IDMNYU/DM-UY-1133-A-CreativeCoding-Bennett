@@ -48,12 +48,11 @@
 <!-- homework -->
 <tr>
   <td valign="top">read</td>
-  	<li> Learning Processing - Ch. 2 </li>
+  	
   	<!-- day Tues -->
   	<td valign="top"> 
   
-		
-		<li>
+		<li> Learning Processing - Ch. 2 </li>
 		
 
 	</td>

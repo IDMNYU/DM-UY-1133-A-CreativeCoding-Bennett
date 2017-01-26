@@ -81,10 +81,10 @@
   	<li>Get a <a href = https://github.com/>Github 	account</a></li>
 		<li>Email me your handle (ie, GitHub name/login) from your NYU acct</li>
 		<li>Fwd your NYU email account to personal acct, if need be</li>
-		<a href = "https://creativecoding-c-fa16.slack.com/"><li>Look in your NYU email for a Slack invitation to join the Slack channel for this course</li> </a>
- 		<li>Install <a href = https://processing.org/download/>Processing</a>. Go through the examples in Processing and explore them.</li>
+		<a href = "https://creativecodingasp17.slack.com/"><li>Look in your NYU email for a Slack invitation to join the Slack channel for this course</li> </a>
+ 		<li>Install <a href = https://processing.org/download/>Processing</a>. </li> <li>Go through the examples in Processing and explore them.</li>
 
-		<li>Install </li> <li> <a href = "https://desktop.github.com/"> Github Desktop for Mac/Windows </a>, </li>  <li>  <a href = "http://www.sublimetext.com/"> Sublime </a></li>
+		<li>Install  <a href = "https://desktop.github.com/"> Github Desktop for Mac/Windows </a> </li>  <li> Install <a href = "http://www.sublimetext.com/"> Sublime </a></li>
 		
   	</td>
 </tr>
