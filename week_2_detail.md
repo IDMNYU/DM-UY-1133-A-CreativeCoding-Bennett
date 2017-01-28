@@ -13,8 +13,8 @@
 <!-- dates -->
 <tr>
   <td valign="top">2</td>
-  <td valign="top" width="48%"><strong>Sep 13</strong></td>
-  <td valign="top" width="48%"><strong>Sep 15</strong></td>
+  <td valign="top" width="48%"><strong>Jan 31</strong></td>
+  <td valign="top" width="48%"><strong>Feb 2</strong></td>
 </tr>
 
 <!-- class -->
@@ -59,7 +59,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  	<li> Learning Processing - Ch. 3 </li>
+  	<li> Learning Processing - Ch. 3-4 </li>
   	
    <li>Programming Interactivity - Ch. 2 - (on Slack)</li>	
 		

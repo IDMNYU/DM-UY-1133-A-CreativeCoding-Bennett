@@ -52,7 +52,7 @@
 <tr>
 	<td> 3 </td>
 
-	<td valign="top"><a href="week_3_detail_A.md">Feb 7</a><br><strong>
+	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br><strong>
 	Exercise 1 Due <br>
 	Loops <br>
 	Comments <br>
@@ -62,7 +62,7 @@
 
 
 	
-	<td valign="top"><a href="week_3_detail_B.md">Feb 9</a><br><strong>
+	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br><strong>
 	Motion <br>
 	Random <br>
 	Functions <br>
@@ -76,7 +76,7 @@
 <tr>
 	<td> 4 </td>
 
-	<td valign="top"><a href="week_4_detail_A.md">Feb 14</a><br><strong>
+	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br><strong>
 	Exercise 2 Due <br>
 	Intro to P5 <br>
 	Matrix Transformations <br>
@@ -85,7 +85,7 @@
 	</td>
 
 
-	<td valign="top"><a href="week_4_detail_B.md">Feb 16</a><br><strong>
+	<td valign="top"><a href="week_4_detail.md">Feb 16</a><br><strong>
 	Arrays <br>
 	Functions + passing parameters <br>	
 	</strong>
@@ -96,14 +96,14 @@
 <tr>
 	<td> 5 </td>
 
-	<td valign="top"><a href="week_5_detail_A.md">Feb 21</a><br><strong>
+	<td valign="top"><a href="week_5_detail.md">Feb 21</a><br><strong>
 	Object Orientated Programming <br>
 	Methods <br>
 	</strong>
 	</td>
 
 	
-	<td valign="top"><a href="week_5_detail_B.md">Feb 23</a><br><strong>
+	<td valign="top"><a href="week_5_detail.md">Feb 23</a><br><strong>
 	Object Orientated Programming <br>
 	Passing Parameters <br>
 	In-class Challenge <br>

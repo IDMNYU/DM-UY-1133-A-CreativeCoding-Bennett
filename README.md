@@ -152,7 +152,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Slack](https://creativecodingasp17.slack.com/) https://slack.com/
 
-• [Resources](dm1133-A_Resources.md)
+• [Resources](dResources.md)
 
 
 [Highly Recommended Texted - Form + Code by Casey Reas and Chandler McWilliams](http://formandcode.com/) This book is available as an online book [here](http://bobcat.library.nyu.edu) 
@@ -251,7 +251,7 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 • Project 2: TBA (on-line critique)		20%
 
-• Project 2: Choice (critiqued)			25%
+• Project 3: Choice (critiqued)			25%
 
 For each project your grade will be assessed upon the following: Principles, Creativity/Thoughtfulness, Craft. Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
 
