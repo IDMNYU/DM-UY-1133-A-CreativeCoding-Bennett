@@ -19,4 +19,5 @@ Part 1:
 Part 2:
 
 Once you have that pattern created, how can you use it as a drawing tool/instrument or send it values to animate it across space based upon an input?
- - how could you incorporate random and/or interactivity to add variety + change?
+
+ - How could you incorporate random and/or interactivity to add variety + change? How could this be controlled over time?
