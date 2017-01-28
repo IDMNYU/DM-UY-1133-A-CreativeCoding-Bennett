@@ -47,6 +47,7 @@
   <td valign="top">read</td>
 
   	<!-- day Tues -->
+  	<td valign="top" width="48%">
   	<li> Learning Processing - Ch. 5 </li>
 	<li> Generative Design - P.0, P.1.2.3 - P.2.1.3 </li>
 
