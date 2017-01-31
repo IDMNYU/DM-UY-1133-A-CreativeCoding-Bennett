@@ -1,5 +1,5 @@
 ## DM-UY 1133 Creative Coding, Section A
-##### Fall 2016 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm • 2MTC MAGNET 811 
+##### Spring 2017 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm • 2MTC MAGNET 811 
 ---
 
 
