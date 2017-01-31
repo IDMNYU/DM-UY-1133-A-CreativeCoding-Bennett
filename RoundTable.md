@@ -16,4 +16,4 @@
 		* Prepare a 4 minute presentation on these 4 ideas. Have your links ready to go, images scanned and slides ready. Be able to discuss your idea.
 
 
-Due Nov 14
+Due April 11

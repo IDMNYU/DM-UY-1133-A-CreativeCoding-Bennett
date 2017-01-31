@@ -59,7 +59,7 @@
   <!-- day Thurs -->
   <td valign="top"> 
   
-	<li>Rushkoff’s Program or Be Programmed - Ch. 1 (on Slack)</li>
+	<li>Rushkoff’s Program or Be Programmed - Introduction (on Slack)</li>
 		<a href = "http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464">The 10 Algorithms that Dominate </a>
 		</li>
 		<li> Learning Processing - Ch. 1</li>
