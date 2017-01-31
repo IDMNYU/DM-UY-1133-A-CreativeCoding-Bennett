@@ -24,7 +24,7 @@
 	<td valign="top" width="48%">
 
 	<strong> 
-	Exercise 1 Due <br>
+	Sketch 1 Due <br>
 	In-class Challenge <br>
 	Loops <br>
 	Comments <br>
@@ -69,13 +69,13 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 	<li><a href = "Exercise_2.md"> Exercise 2 </a></li>
+ 	<li><a href = "Sketch_2.md"> Sketch 2 </a></li>
  		
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-		<li><a href = "Exercise_2.md"> Exercise 2 </a></li>
+		<li><a href = "Sketch_2.md"> Sketch 2 </a></li>
   	</td>
   	
 </tr>

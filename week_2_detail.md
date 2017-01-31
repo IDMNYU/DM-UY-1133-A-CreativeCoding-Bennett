@@ -74,12 +74,12 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 	<li><a href = "Exercise_1.md"> Exercise 1</li>
+ 	<li><a href = "Sketch_1.md"> Sketch 1</li>
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-  	<li><a href = "Exercise_3.md"> Exercise 1 </a>
+  	<li><a href = "Sketch_1.md"> Sketch 1 </a>
 		
   	</td>
 

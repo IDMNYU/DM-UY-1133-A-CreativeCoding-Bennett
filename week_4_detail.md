@@ -68,14 +68,14 @@
 
 	<!-- day Tues -->
  	<td valign ="top"> 
- 	<a href = "Exercise_3.md"> </a> <br>
+ 	<a href = "Sketch_3.md"> </a> <br>
  	
 
  	</td>
 
   	<!-- day Thurs -->
   	<td valign = "top">
-	<a href = "Exercise_3.md"> </a> <br>
+	<a href = "Sketch_3.md"> </a> <br>
   	</td>
   	
 </tr>
