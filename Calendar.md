@@ -53,7 +53,7 @@
 	<td> 3 </td>
 
 	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br><strong>
-	Exercise 1 Due <br>
+	Sketch 1 Due <br>
 	Loops <br>
 	Comments <br>
 	In-class Challenge <br>
@@ -67,6 +67,7 @@
 	Random <br>
 	Functions <br>
 	Print Statements <br>
+	Show & Tell <br>
 	</strong>
 	</td>
 </tr>
@@ -77,10 +78,11 @@
 	<td> 4 </td>
 
 	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br><strong>
-	Exercise 2 Due <br>
+	Sketch 2 Due <br>
 	Intro to P5 <br>
 	Matrix Transformations <br>
 	Functions + passing parameters <br>
+	Show & Tell <br>
 	</strong>
 	</td>
 
@@ -88,6 +90,7 @@
 	<td valign="top"><a href="week_4_detail.md">Feb 16</a><br><strong>
 	Arrays <br>
 	Functions + passing parameters <br>	
+	Show & Tell <br>
 	</strong>
 	</td>
 </tr>
@@ -99,6 +102,7 @@
 	<td valign="top"><a href="week_5_detail.md">Feb 21</a><br><strong>
 	Object Orientated Programming <br>
 	Methods <br>
+	Show & Tell <br>
 	</strong>
 	</td>
 
@@ -168,6 +172,7 @@
 	<td valign="top"><a href="week_8_detail_A.md">March 21</a><br>
 	<strong>
 	Vectors <br>
+	Show & Tell <br>
 	</strong>
 	</td>
 
@@ -192,6 +197,7 @@
 
 	<td valign="top"><a href="week_9_detail_B.md">March 30</a><br><strong>
 	Working with API's	<br>
+	Show & Tell <br>
 	</strong>
 	</td>
 </tr>
@@ -204,12 +210,14 @@
 	<td valign="top"><a href="week_10_detail_A.md"> April 4</a><br> 
 	<strong>
 	Physical Computing	<br>
+	Show & Tell <br>
 	</strong>
 	</td>
 
 
 	<td valign="top"><a href="week_10_detail_B.md">April 6</a><br><strong>
-	TBA <br>	
+	TBA <br>
+	Show & Tell <br>	
 	</strong>
 	</td>	
 </tr>
@@ -239,7 +247,8 @@
 
 	<td valign="top">April 18<br>
 	<strong>
-	Pixel Manipulations <br>	
+	Pixel Manipulations <br>
+	Show & Tell <br>	
 	</strong>
 	</td>
 
@@ -247,6 +256,7 @@
 	<td valign="top">April 20<br>
 	<strong>	
 	Sound <br>
+	Show & Tell <br>
 	</strong>
 	</td>
 </tr>

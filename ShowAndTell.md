@@ -29,42 +29,42 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 #### Show and Tell People
 
-Week 2 - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> 
+Week 3B - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Ikra
 
-Week  -  Casey Reas, Zachary Lieberman ---> 
+Week 3B -  Casey Reas, Zachary Lieberman ---> Asaf 
 
-Week - United Visual Artists, Hellicar & Lewis ---> 
+Week 4A - United Visual Artists, Hellicar & Lewis ---> Bertin
 
-Week - Seb Lee-Delisle & Kyle McDonald ---> 
+Week 4B - Seb Lee-Delisle & Kyle McDonald ---> Tyler
 
-Week - Julian Oliver, Moritz Stefaner, Martin Wattenberg --->
+Week 4B - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Adam
 
-Week -  Jer Thorpe, Soso Limited --->
+Week 5A -  Jer Thorpe, Soso Limited ---> Kate
 
-Week - Congaz, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
+Week 5A - Congaz, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Jason
 
-Week - Marius Watz & Memo Akten ---> 
+Week 8A - Marius Watz & Memo Akten ---> Rashid
 
-Week - Field - http://www.field.io/, Josh Nimoy ---> 
+Week 8A - Field - http://www.field.io/, Josh Nimoy ---> Jediah
 
-Week - Jurg Lehni, Red Paper Heart   ---> 
+Week 9B - Jurg Lehni, Red Paper Heart   ---> Brendan
 
-Week - Amit Pitaru, rAndom International  ---> 
+Week 9B - Amit Pitaru, rAndom International  ---> Polina
 
-Week - Eno Henze, Dedric Kiefer ---> 
+Week 10A - Eno Henze, Dedric Kiefer ---> Dong-Ha
 
-Week - Diato Manabe, Leo Villareal ---> 
+Week 10A - Diato Manabe, Leo Villareal ---> Connor
 
-Week - Karolina Sobecka, Future Cities Lab ---> 
+Week 10B - Karolina Sobecka, Future Cities Lab ---> Madison
 
-Week - Robert Hodgin - Flight404, Karsten Schmidt --->
+Week 10B - Robert Hodgin - Flight404, Karsten Schmidt ---> Ricardo
 
-Week - Ryan Habbyshaw,Lauren McCarthy  ---> 
+Week 12A - Ryan Habbyshaw,Lauren McCarthy  ---> Sean
 
-Week - Lia, Santiago Ortiz (Moebio.com) ---> 
+Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> Maria
 
-Week - Michael Hansmeyer, Waltz Binarie ---> 
+Week 12B - Michael Hansmeyer, Waltz Binarie ---> Ethan
 
-Week - Paul Prudence, Moment Factory ---> 
+Week 12B - Paul Prudence, Moment Factory ---> Christine
 
 Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
