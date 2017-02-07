@@ -23,11 +23,12 @@
 	<!-- day Tues -->
 	<td valign="top" width="48%">
 	<strong>
-	Exercise 2 Due <br> 
+	Sketch 2 Due <br> 
 	Intro to P5 <br>
 	Matrix transformations <br>
 	Functions + Passing Parameters <br>
 	Show & Tell  <br>
+	</strong>
 	</td>
 	
 
@@ -68,14 +69,14 @@
 
 	<!-- day Tues -->
  	<td valign ="top"> 
- 	<a href = "Sketch_3.md"> </a> <br>
+ 	<a href = "Sketch_3.md"> Sketch 3</a> <br>
  	
 
  	</td>
 
   	<!-- day Thurs -->
   	<td valign = "top">
-	<a href = "Sketch_3.md"> </a> <br>
+	<a href = "Sketch_3.md">Sketch 3 </a> <br>
   	</td>
   	
 </tr>

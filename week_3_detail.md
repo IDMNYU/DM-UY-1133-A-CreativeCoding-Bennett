@@ -23,13 +23,13 @@
 	<!-- day Tues -->
 	<td valign="top" width="48%">
 
-	<strong> 
+	
 	Sketch 1 Due <br>
 	In-class Challenge <br>
 	Loops <br>
 	Comments <br>
 	In-class Challenge <br>
-	</strong>
+	
 	
 	</td>
 	
