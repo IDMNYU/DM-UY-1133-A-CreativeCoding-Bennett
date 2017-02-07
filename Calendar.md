@@ -39,7 +39,7 @@
 
 	<td valign="top"><a href="week_2_detail.md">Feb 2</a><br><strong>
 	
-	Github + Turning in Assignments <br>
+	
 	Control Statements<br>
 	Operators<br>
 	Code Blocks <br>
@@ -53,7 +53,8 @@
 	<td> 3 </td>
 
 	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br><strong>
-	Sketch 1 Due <br>
+	Sketch 1 Due <br></strong>
+	Turning in Assignments <br>
 	Loops <br>
 	Comments <br>
 	In-class Challenge <br>

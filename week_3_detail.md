@@ -25,10 +25,11 @@
 
 	
 	Sketch 1 Due <br>
-	In-class Challenge <br>
+	How to Submit Homework <br>
+	In-class Challenge ?<br>
 	Loops <br>
 	Comments <br>
-	In-class Challenge <br>
+	
 	
 	
 	</td>
@@ -39,6 +40,7 @@
 	<li> Motion </li>
 	<li> Random </li>
 	<li> Functions + passing parameters </li>
+	In-class Challenge ?<br>
 	
 	</td>
 

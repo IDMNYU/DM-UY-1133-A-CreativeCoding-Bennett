@@ -37,7 +37,7 @@
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
 
-	<li>Intro to Github</li>	
+		
 	<li> Variables</li>
 	<li> Scope + Control Statements</li> 
 	<li> Logical Operators </li>
