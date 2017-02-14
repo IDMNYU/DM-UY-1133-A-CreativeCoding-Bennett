@@ -22,5 +22,7 @@ Once you have that pattern created, how can you use it as a drawing tool/instrum
 
  - How could you incorporate random and/or interactivity to add variety + change? How could this be controlled over time?
 
+ - Use your matrix transformations and for-loops
+
  Reference: [Lia](http://www.liaworks.com/category/theprojects/)
  [Eno Henze](http://enohenze.de/)
