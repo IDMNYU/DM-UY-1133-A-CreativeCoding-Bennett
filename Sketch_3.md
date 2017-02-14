@@ -15,4 +15,4 @@
  4.) Create 3 different monsters, with 3 calls to the same function. Pass different parameters in each call, to make each monster unique. There should be similarities and differences between them.
 
 
- Bonus: 45.) Create an array that stores different values for one variable. Ex. hair colors, # of appendages, # of eyes, etc. Use a for-loop to iterate through the array, passing the array's indice to a monster function call as a parameter.
+ **Bonus: Create an array that stores different values for one variable. Ex. hair colors, # of appendages, # of eyes, etc. Use a for-loop to iterate through the array, passing the array's indice to a monster function call as a parameter.
