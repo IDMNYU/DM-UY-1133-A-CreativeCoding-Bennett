@@ -2,7 +2,7 @@
 
 ###P5.js transition + Functions with parameters
 
-####Due Tuesday 2:30 pm with questions
+####Due Tuesday Feb 21st 2:30 pm with questions
 
 
  1.) Take your first sketch - your monster - and translate it to the P5.js platform. Make sure that it functions in the browser properly!
