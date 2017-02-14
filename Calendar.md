@@ -63,12 +63,13 @@
 
 
 	
-	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br><strong>
-	Motion <br>
-	Random <br>
+	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br>~~<strong>
+	Motion <br>~~
+	~~Random <br>~~
 	Functions <br>
 	Print Statements <br>
 	Show & Tell <br>
+	SNOW DAY
 	</strong>
 	</td>
 </tr>
