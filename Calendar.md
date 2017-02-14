@@ -64,8 +64,8 @@
 
 	
 	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br><strong>
-	<strike>Motion <br>~~
-	Random <br>~~
+	<strike>Motion <br>
+	Random <br>
 	Functions <br>
 	Print Statements <br>
 	Show & Tell <br> </strike>
@@ -80,18 +80,20 @@
 	<td> 4 </td>
 
 	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br><strong>
-	Sketch 2 Due <br>
-	Intro to P5 <br>
+	Sketch 2 Due Wednesday End Of Day<br>
+	DeBugger + Loops (review)<br>
 	Matrix Transformations <br>
-	Functions + passing parameters <br>
-	Show & Tell <br>
+	In-Class challenge<br>
+	Functions Intro <br>
+	
+
 	</strong>
 	</td>
 
 
 	<td valign="top"><a href="week_4_detail.md">Feb 16</a><br><strong>
-	Arrays <br>
-	Functions + passing parameters <br>	
+	Intro to P5 <br>
+	Functions + passing parameters <br>
 	Show & Tell <br>
 	</strong>
 	</td>
