@@ -23,11 +23,11 @@
 	<!-- day Tues -->
 	<td valign="top" width="48%">
 	<strong>
-	Sketch 2 Due <br> 
-	Intro to P5 <br>
-	Matrix transformations <br>
-	Functions + Passing Parameters <br>
-	Show & Tell  <br>
+	Sketch 2 Due Wednesday End Of Day<br>
+	DeBugger + Loops (review)<br>
+	Matrix Transformations <br>
+	In-Class challenge<br>
+	Functions Intro
 	</strong>
 	</td>
 	
@@ -35,10 +35,10 @@
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
 	<strong>
-	Arrays <br>
-	Control <br>
-	Functions + Passing Parameters <br>
-	Show & Tell </strong>
+	Intro to P5 <br>
+	Functions + passing parameters <br>
+	Show & Tell <br>
+	</strong>
 	
 		
 		
