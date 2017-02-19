@@ -37,6 +37,7 @@
 	<strong>
 	Intro to P5 <br>
 	Functions + passing parameters <br>
+	Arrays<br>
 	Show & Tell <br>
 	</strong>
 	
