@@ -12,7 +12,8 @@ Use only the drawing functions - stuff found in the Shape, Color, Events and Mat
 
 Create custom functions that are triggered on some event, and make those functions vary. The focus of this project is procedural intensity. How expressive can you be with only line, shapes, color and movement?
 
-Ingredients: 
+Ingredients: <br>
+
 • Graphics (shape, color, line, placement, custom shapes) <br>
 • Control Structures (if, for, while) <br>
 • Movement <br>
@@ -22,23 +23,15 @@ Ingredients:
 • Math <br>
 • Random <br>
 
-Must haves:
+Must haves: <br>
 	• heavy use of variables<br>
-
 	• custom functions passing variables as parameter <br>
-
 	• loops <br>
-
 	• control structures <br>
-
 	• math or random <br>
-
 	• some use of interaction or change over time <br>
-
 	• movement, change, variety <br>
-
 	• arrays <br>
-
 	• conditionals <br>
 
 	
@@ -46,4 +39,4 @@ Must haves:
 
 Code must be 150 lines of custom code, a minimum. Spacing, comments or commented out code are not counted as lines.
 
-Weekly pushes to your OpenProcessing/GitHub Repo are required
+Weekly pushes to your **GitHub Repo are required**
