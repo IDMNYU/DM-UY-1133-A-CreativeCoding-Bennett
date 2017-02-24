@@ -5,9 +5,12 @@ var xPos = 0;
 var yPos = 0;
 var w = 0;
 var acceleration = 0;
-var velocity = 0;
+var v = 0;
 var oldX = 0;
 var oldY = 0;
+
+var thex, they;
+var a; //angle
 
 var liteB, melon, medBlu, pink, orange, mustard, ring;
 var clrs = [];
@@ -35,6 +38,7 @@ function setup() {
 
   clrs = [liteBlu, melon, pink, mustard, ring];
   background(medBlu);
+  //initialize();
 }
 
 function draw() {
@@ -42,10 +46,19 @@ function draw() {
   //update the opacity
   var r = random(10, 50)
   clrs[2] = color(220, 82, 245, r);
+  
   //change variables tied with movement
   // randMove();
-  drunkAttract();
+  //drunkAttract();
+  reflect();
+  
+  
+  //push();
+    //translate(width/2, height/2);
+    display(clrs[2], clrs[4]);
+  //pop();
 
+/*
   for (var i = 0; i < 5; i++) {
     push();
     translate(random(80, 200), random(80, 200));
@@ -53,7 +66,21 @@ function draw() {
     display(clrs[i], clrs[4]);
     pop();
   }
+  */
+  
 
+}
+
+function reflect(){
+   // polar to cartesian transformation:
+  xPos = xPos+v*cos(a);
+  yPos = yPos+v*sin(a);
+  
+  if(xPos>width) a = PI - a;
+  if(xPos<0) a = PI - a;
+  if(yPos>height) a = TWO_PI - a;
+  if(yPos<0) a = TWO_PI - a;
+  
 }
 
 function drunkAttract() {
@@ -104,6 +131,17 @@ function display(clr_1, clr_2) { //display(x_, y_, clr1, clr2){
     ellipse(xPos + (w * .5), yPos - (w * .5), w, w);
 
   }
+}
+
+function keyReleased(){
+  initialize();
+}
+
+function initialize(){
+  xLoc = random(0, width);
+  yLoc = random(0, height);
+  v = random(5, 20); // random velocity
+  a = random(0, TWO_PI); // random angle
 }
 
 

@@ -6,8 +6,6 @@ var liteB, melon, pink, orange, mustard, ring;
 var clrs = [];
 
 
-
-
 function setup() {
   medBlu = color(70, 123, 206);
 
@@ -15,7 +13,7 @@ function setup() {
   melon = color(232, 141, 103, random(10, 50));
   pink = color(220, 82, 245);
   mustard = color(209, 191, 91);
-  //ring = r;
+  ring = color(114, 232, 120);
   
   //createCanvas(displayWidth, displayHeight);
   createCanvas(800, 800);
@@ -38,16 +36,20 @@ function draw() {
   var r = random(10, 50)
  
   clrs[2] = color(220, 82, 245, r);
- //console.log(clrs[2]);
-  //change variables tied with movement
-  // randMove();
-  //drunkAttract();
-  //reflect();
+
+ 
+  //now calling method and applying them to various objects
+   b1.randMove();
+   b2.drunkAttract();
+  //b1.reflect(); // comment out b1.randMove() above
+  
+  // once we've called those methods that update
+  // variables associated with location, we can now
+  // re-draw the object with the updated values
   b1.display(clrs[0]);
-  push();
-  translate(width / 2, height / 2);
-    b2.display(clrs[2]);
-  pop();
+  
+  b2.display(clrs[2]);
+ 
 
 }
 
@@ -116,7 +118,7 @@ function Blob(x_, y_, n, w_) {
     this.oldY = this.yPos;
 
     // checking the boundaries
-    checkB_randMove();
+    this.checkB_randMove();
   }
 
   this.checkB_randMove = function() {
