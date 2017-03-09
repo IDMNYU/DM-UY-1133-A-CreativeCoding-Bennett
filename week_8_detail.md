@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">6</td>
-  <td valign="top" width="48%"><strong>Feb 28</strong></td>
-  <td valign="top" width="48%"><strong>March 2</strong></td>
+  <td valign="top">8</td>
+  <td valign="top" width="48%"><strong>March 21</strong></td>
+  <td valign="top" width="48%"><strong>March 23</strong></td>
 </tr>
 
 <!-- class -->
@@ -22,15 +22,17 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	Guest Speaker: Kevin Swioff <br>
-	Images <br>
+	Vectors <br>
+	Show & Tell <br>
 	
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-		CLASS CANCELLED
+	Vectors + Forces<br>
+	Show & Tell <br>
+	In-Class Challenge ? <br>
 		
 		
 	</td>
@@ -40,7 +42,7 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-	Learning Processsing: Review previous readings
+	<a href ="http://natureofcode.com/">Nature of Code: READ Chapter 1 + 2 </a><br>
 		
 			
 
@@ -48,7 +50,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  	Learning Processsing: Ch. Review previous readings
+  	<a href ="http://natureofcode.com/">Nature of Code: READ Chapter 1 + 2 </a><br>
 		
 	
   	</td>
@@ -61,14 +63,13 @@
 
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "Project_1.md"> Work on Project 1 </a> <br>
- 		Push your progress to your GitHub repo WEEKLY (minimum) and put in a report/issue in the comments
+ 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
+ 		
  	</td>
 
   	<!-- day Thurs -->
   	<td valign = "top">
-		<a href = "Project_1.md"> Work on Project 1 </a> <br>
-		Push your progress to your GitHub repo WEEKLY (minimum) and put in a report/issue in the comments
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
   	</td>
   	
 </tr>

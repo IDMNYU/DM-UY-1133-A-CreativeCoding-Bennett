@@ -126,7 +126,8 @@
 
 	<td valign="top"><a href="week_6_detail_A.md">Feb 28</a><br><strong>
 	Guest Speaker <br>
-	Text <br>
+	Images + pixels Manipulations <br>
+	
 		
 	</strong>
 	</td>
@@ -134,8 +135,9 @@
 
 	
 	<td valign="top"><a href="week_6_detail_B.md">March 2</a><br><strong>
-	Guest Speaker <br>
-	Images + pixels Manipulations <br>
+	<strike>Guest Speaker </strike><br>
+	<strike> Text </strike><br>
+	<bold> CLASS CANCELLED Reschedule--> Friday March 10 12:30-1:30 pm @Bam for <a href= "http://www.bam.org/kids/2017/teknopolis-2017">Teknopolis </a><bold>
 	</strong>
 	</td>
 </tr>

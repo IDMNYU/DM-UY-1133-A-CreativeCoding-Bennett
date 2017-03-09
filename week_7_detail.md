@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">6</td>
-  <td valign="top" width="48%"><strong>Feb 28</strong></td>
-  <td valign="top" width="48%"><strong>March 2</strong></td>
+  <td valign="top">7</td>
+  <td valign="top" width="48%"><strong>March 7</strong></td>
+  <td valign="top" width="48%"><strong>March 9</strong></td>
 </tr>
 
 <!-- class -->
@@ -22,15 +22,15 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	Guest Speaker: Kevin Swioff <br>
-	Images <br>
+	In Class Critique <br>
+	
 	
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-		CLASS CANCELLED
+		In Class Critique <br>
 		
 		
 	</td>
@@ -40,7 +40,7 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-	Learning Processsing: Review previous readings
+	Learning Processsing: Review previous readings in Learning Processing + Generative Design. 
 		
 			
 
@@ -48,7 +48,8 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  	Learning Processsing: Ch. Review previous readings
+  	<a href ="http://natureofcode.com/">Nature of Code: Look over Chapter 1 + 2 BEFORE class meets again. </a><br>
+   
 		
 	
   	</td>
@@ -61,14 +62,14 @@
 
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "Project_1.md"> Work on Project 1 </a> <br>
- 		Push your progress to your GitHub repo WEEKLY (minimum) and put in a report/issue in the comments
+ 		
  	</td>
 
   	<!-- day Thurs -->
   	<td valign = "top">
-		<a href = "Project_1.md"> Work on Project 1 </a> <br>
-		Push your progress to your GitHub repo WEEKLY (minimum) and put in a report/issue in the comments
+  	<a href = "Self-Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
+  	Revise your Project 1 to not only push your idea much further and to fully comply with the assignment brief, but to also take into consideration the feedback from the critique.
+  	<bold> This is due March 21st before class </bold>. A new post on the OpenProcessing site will be made. 
   	</td>
   	
 </tr>
