@@ -4,7 +4,7 @@
 ## CALENDAR Overview
 ### Calendar & Weekly Detail is subject to change at any time. Check back regularly.
 
-<table>
+<table width = "100%">
 
 <tr>
 <th width="4%">Wk </th> 
