@@ -4,12 +4,12 @@
 ## CALENDAR Overview
 ### Calendar & Weekly Detail is subject to change at any time. Check back regularly.
 
-<table >
+<table>
 
 <tr>
-<th width="4%">Wk </th> 
-<th width="48%"> Tuesdays </th> 
-<th width="48%"> Thursday </th> 
+	<th width="4%">Wk </th> 
+	<th width="48%"> Tuesdays </th> 
+	<th width="48%"> Thursday </th> 
 </tr>
 
 
@@ -17,7 +17,7 @@
 
 
 <tr>
-	<td> 1 </td>
+	<td valign="top"> 1 </td>
 	
 	<td valign="top"><a href="week_1_detail.md">Jan 24</a><br><strong>No Class</strong>
 	</td>
