@@ -57,9 +57,9 @@
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail_A.md">March 7</a><br><strong>**MidTerm** <br>Project 1 Presentations <br></strong>
+	<td valign="top"><a href="week_7_detail.md">March 7</a><br><strong>**MidTerm** <br>Project 1 Presentations <br></strong>
 	</td>
-	<td valign = "top"> <a href="week_7_detail_B.md">March 9</a><br><strong> **MidTerm** <br>Project 1 Presentations <br></strong>	
+	<td valign = "top"> <a href="week_7_detail.md">March 9</a><br><strong> **MidTerm** <br>Project 1 Presentations <br></strong>	
 	</td>
 </tr>
 
@@ -71,32 +71,32 @@
 </tr>
 <tr>
 	<td>8</td>
-	<td valign="top"><a href="week_8_detail_A.md">March 21</a><br><strong>Vectors <br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_8_detail.md">March 21</a><br><strong>Vectors <br>Show & Tell <br></strong>
 	</td>
-	<td valign="top"><a href="week_8_detail_B.md">March 23</a><br><strong>Vectors + Forces <br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_8_detail.md">March 23</a><br><strong>Vectors + Forces <br>In-class Challenge <br></strong>
 	</td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail_A.md">March 28</a><br><strong>String manipulations <br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_9_detail.md">March 28</a><br><strong>String manipulations <br>In-class Challenge <br></strong>
 	</td>
-	<td valign="top"><a href="week_9_detail_B.md">March 30</a><br><strong>Working with API's	<br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_9_detail.md">March 30</a><br><strong>Working with API's	<br>Show & Tell <br></strong>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"><a href="week_10_detail_A.md"> April 4</a><br><strong>Physical Computing<br>
+	<td valign="top"><a href="week_10_detail.md"> April 4</a><br><strong>Physical Computing<br>
 	Show & Tell<br></strong>
 	</td>
-	<td valign="top"><a href="week_10_detail_B.md">April 6</a><br><strong>TBA <br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_10_detail.md">April 6</a><br><strong>TBA <br>Show & Tell <br></strong>
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top"><a href="week_11_detail_A.md">April 11</a><br><strong>
+	<td valign="top"><a href="week_11_detail.md">April 11</a><br><strong>
 	<a href = "RoundTable.md">Roundtable for Final Projects	</a></strong>	
 	</td>
-	<td valign="top"><a href="week_11_detail_B.md">April 13</a><br><strong>
+	<td valign="top"><a href="week_11_detail.md">April 13</a><br><strong>
 	<a href = "RoundTable.md">Roundtable for Final Projects</a></strong>
 	</td>
 </tr>
