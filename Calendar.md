@@ -6,17 +6,14 @@
 
 <table>
 <tr>
-	<th width="4%">Wk </th> 
-	<th width="48%"> Tuesdays </th> 
-	<th width="48%"> Thursday </th> 
+	<th width="4%">Wk</th> 
+	<th width="48%">Tuesdays</th> 
+	<th width="48%">Thursday</th> 
 </tr>
 <tr>
-	<td valign="top"> 1 </td>
+	<td valign="top">1</td>
 	<td valign="top"><a href="week_1_detail.md">Jan 24</a><br><strong>No Class</strong></td>
-	<td valign="top"><a href="week_1_detail.md">Jan 26</a><br><strong>Course and Student Introductions<br>
-	Overview of Course<br>
-	In-Class Challenge</strong>
-	</td>
+	<td valign="top"><a href="week_1_detail.md">Jan 26</a><br><strong>Course and Student Introductions<br>Overview of Course<br>In-Class Challenge</strong></td>
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
