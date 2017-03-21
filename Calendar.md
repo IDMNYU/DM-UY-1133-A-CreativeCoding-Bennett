@@ -4,8 +4,8 @@
 ## CALENDAR Overview
 ### Calendar & Weekly Detail is subject to change at any time. Check back regularly.
 
-< <table width = "100%">
-<thead>
+<table width = "100%">
+<thead> 
 | wk | Tuesdays | Thursdays| 
 | ---| ---------| ---------|
 <tr>
@@ -13,7 +13,7 @@
 <th width="48%"> Tuesdays </th> 
 <th width="48%"> Thursday </th> 
 </tr>
-</thead> >
+</thead> 
 
 
 
