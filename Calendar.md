@@ -13,7 +13,7 @@
 </tr>
 </thead> >
 
-| wk | Tuesdays | Thursdays| 
+<| wk | Tuesdays | Thursdays| >
 | ---| ---------| ---------|
 
 <tbody>
