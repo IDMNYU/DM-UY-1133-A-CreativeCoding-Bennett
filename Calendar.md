@@ -12,6 +12,7 @@
 <th width="48%"> Thursday </th> 
 </tr>
 </thead> >
+
 | wk | Tuesdays | Thursdays| 
 | ---| ---------| ---------|
 
