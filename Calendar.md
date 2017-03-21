@@ -6,6 +6,8 @@
 
 < <table width = "100%">
 <thead>
+| wk | Tuesdays | Thursdays| 
+| ---| ---------| ---------|
 <tr>
 <th width="4%">Wk </th> 
 <th width="48%"> Tuesdays </th> 
@@ -13,8 +15,7 @@
 </tr>
 </thead> >
 
-<| wk | Tuesdays | Thursdays| >
-| ---| ---------| ---------|
+
 
 <tbody>
 <tr>
