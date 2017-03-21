@@ -10,7 +10,7 @@
 
 
 ### Required Course Materials
-• [Learning Processing, SECOND EDITION by Daniel Shiffman] (http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
+• [Learning Processing, SECOND EDITION by Daniel Shiffman](http://learningprocessing.com/) ISBN-13: 978-0123944436 LP
 This book is available for purchase in the NYU bookstore, and will be physically on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/). This book in it's initial edition is available as an online book via [here](http://bobcat.library.nyu.edu).
 
 • [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
@@ -18,15 +18,15 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Getting Started with P5.js](https://p5js.org/books/)
 
-• [Processing] (https://processing.org/download/)
+• [Processing](https://processing.org/download/)
 
 • [P5.js](http://p5js.org/download/) Download P5.js complete
 
-• text editor - [Brackets] (http://brackets.io/), [Sublime](http://www.sublimetext.com/2), [TextWrangler](http://www.barebones.com/products/textwrangler/), or another favorite of yours
+• text editor - [Brackets](http://brackets.io/), [Sublime](http://www.sublimetext.com/2), [TextWrangler](http://www.barebones.com/products/textwrangler/), or another favorite of yours
 
-• FTP Client - [Cyberduck] (https://cyberduck.io/?l=en), [Transmit] (https://panic.com/transmit/) (Mac only), [FileZilla] (https://filezilla-project.org/)
+• FTP Client - [Cyberduck](https://cyberduck.io/?l=en), [Transmit](https://panic.com/transmit/) (Mac only), [FileZilla](https://filezilla-project.org/)
 
-• [Nature of Code] (http://natureofcode.com/) NoC
+• [Nature of Code](http://natureofcode.com/) NoC
 
 • [Slack](https://creativecoding-c-fa16.slack.com/) https://slack.com/
 
@@ -96,7 +96,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 #### Processing
 
-• [Learning Processing (Daniel Shiffman, video lectures)](http://icm.shiffman.net/) [More video's here](http://learningprocessing.com/videos/) [and even more here] (https://vimeo.com/shiffman)
+• [Learning Processing (Daniel Shiffman, video lectures)](http://icm.shiffman.net/) [More video's here](http://learningprocessing.com/videos/) [and even more here](https://vimeo.com/shiffman)
 
 • [Nature of Code (Daniel Shiffman, video lectures)](https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset)
 
@@ -138,7 +138,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [More about arrays in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-• [API's] (https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+• [API's](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
 • [Transformations - rotation, scale, etc](http://genekogan.com/code/p5js-transformations/)
 

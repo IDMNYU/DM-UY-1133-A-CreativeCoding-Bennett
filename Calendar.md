@@ -5,14 +5,11 @@
 ### Calendar & Weekly Detail is subject to change at any time. Check back regularly.
 
 <table>
-
 <tr>
 	<th width="4%">Wk </th> 
 	<th width="48%"> Tuesdays </th> 
 	<th width="48%"> Thursday </th> 
 </tr>
-
-
 <tr>
 	<td valign="top"> 1 </td>
 	<td valign="top"><a href="week_1_detail.md">Jan 24</a><br><strong>No Class</strong></td>
@@ -21,9 +18,6 @@
 	In-Class Challenge</strong>
 	</td>
 </tr>
-
-
-
 <tr>
 	<td valign="top"> 2 </td>
 	<td valign="top"><a href="week_2_detail.md">Jan 31</a><br><strong>
