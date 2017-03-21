@@ -17,52 +17,26 @@
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
-	<td valign="top"><a href="week_2_detail.md">Jan 31</a><br><strong>
-	Introduction to Processing <br>Graphic basics + Variables <br></strong></td>
-    <td valign="top"><a href="week_2_detail.md">Feb 2</a><br><strong>
-	Control Statements<br>Operators<br>Code Blocks <br>Comments <br></strong></td>
+	<td valign="top"><a href="week_2_detail.md">Jan 31</a><br><strong>Introduction to Processing <br>Graphic basics + Variables<br></strong></td>
+    <td valign="top"><a href="week_2_detail.md">Feb 2</a><br><strong>Control Statements<br>Operators<br>Code Blocks<br>Comments<br></strong></td>
 </tr>
-
-
 <tr>
 	<td valign="top"> 3 </td>
-
-	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br><strong>
-	Sketch 1 Due <br></strong>
-	Turning in Assignments <br>
-	Loops <br>
-	Comments <br>
-	In-class Challenge <br>
-	</strong>
-	</td>
-
-
-	
-	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br><strong>
-	<strike>Motion <br>
-	Random <br>
-	Functions <br>
-	Print Statements <br>
-	Show & Tell <br> </strike>
-	SNOW DAY
-	</strong>
+	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br><strong>Sketch 1 Due<br></strong>
+	Turning in Assignments<br>
+	Loops<br>
+	Comments<br>
+	In-class Challenge<br></strong></td>
+	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br><strong><strike>Motion<br>Random<br>Functions<br>Print Statements<br>
+	Show & Tell<br></strike>SNOW DAY</strong>
 	</td>
 </tr>
 
-
-
 <tr>
-	<td> 4 </td>
-
-	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br><strong>
-	Sketch 2 Due Wednesday End Of Day<br>
-	DeBugger + Loops (review)<br>
-	Matrix Transformations <br>
-	In-Class challenge<br>
-	Functions Intro <br>
-	
-
-	</strong>
+	<td>4</td>
+	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br><strong>Sketch 2 Due Wednesday End Of Day<br>DeBugger + Loops (review)<br>
+	Matrix Transformations <br>In-Class challenge<br>
+	Functions Intro <br></strong>
 	</td>
 
 
