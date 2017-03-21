@@ -46,7 +46,7 @@
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-  	<a href = "Self-Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
+  	<a href = "Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
   	Revise your Project 1 to not only push your idea much further and to fully comply with the assignment brief, but to also take into consideration the feedback from the critique.
   	<bold> This is due March 21st before class </bold>. A new post on the OpenProcessing site will be made. 
   	</td>	
