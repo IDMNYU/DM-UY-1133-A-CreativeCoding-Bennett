@@ -32,7 +32,7 @@
 
 
 <tr>
-	<td> 2 </td>
+	<td valign="top"> 2 </td>
 
 	<td valign="top"><a href="week_2_detail.md">Jan 31</a><br><strong>
 	Introduction to Processing <br>
@@ -53,7 +53,7 @@
 
 
 <tr>
-	<td> 3 </td>
+	<td valign="top"> 3 </td>
 
 	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br><strong>
 	Sketch 1 Due <br></strong>
