@@ -13,16 +13,9 @@
 </tr>
 
 
-
-
-
 <tr>
 	<td valign="top"> 1 </td>
-	
-	<td valign="top"><a href="week_1_detail.md">Jan 24</a><br><strong>No Class</strong>
-	</td>
-	
-
+	<td valign="top"><a href="week_1_detail.md">Jan 24</a><br><strong>No Class</strong></td>
 	<td valign="top"><a href="week_1_detail.md">Jan 26</a><br><strong>Course and Student Introductions<br>
 	Overview of Course<br>
 	In-Class Challenge</strong>
@@ -33,22 +26,10 @@
 
 <tr>
 	<td valign="top"> 2 </td>
-
 	<td valign="top"><a href="week_2_detail.md">Jan 31</a><br><strong>
-	Introduction to Processing <br>
-	Graphic basics + Variables <br>
-	</strong>
-	</td>
-
-	<td valign="top"><a href="week_2_detail.md">Feb 2</a><br><strong>
-	
-	
-	Control Statements<br>
-	Operators<br>
-	Code Blocks <br>
-	Comments <br>
-	</strong>
-	</td>
+	Introduction to Processing <br>Graphic basics + Variables <br></strong></td>
+    <td valign="top"><a href="week_2_detail.md">Feb 2</a><br><strong>
+	Control Statements<br>Operators<br>Code Blocks <br>Comments <br></strong></td>
 </tr>
 
 
