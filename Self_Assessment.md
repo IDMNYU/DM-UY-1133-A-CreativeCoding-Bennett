@@ -14,7 +14,7 @@ Write a page which discusses the aspects below. Make sure to address *EACH* poin
 
 • What are you struggling with conceptually? What are you struggling with coding-wise? Lastly, what are you struggling with creatively/ideation?
 
-• What measures are you going to take to improve your work in and for class? Are these a weekly actionable task? Tell me a about it. (some examples might include asking questions in class, doing the readings, reviewing the readings, getting a tutor, starting a study group, doing the assigned readings, working your study schedule to allow for both reading and programming, etc, etc)
+• What measures are you going to take to improve your work in _and_ for class? Are these weekly actionable tasks? Tell me a about it. (some examples might include asking questions in class, doing the readings, reviewing the readings, getting a tutor, starting a study group, doing the assigned readings, working your study schedule to allow for both reading and programming, etc, etc)
 
 • What could happen during class to help your understanding of the course material? What concepts are you interested in learning more about? What concepts would you like to have reviewed?
 
