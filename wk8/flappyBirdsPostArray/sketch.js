@@ -36,7 +36,7 @@ function draw(){
 	background(0);
 
 	//cycle through the array of bars:
-	for(var i = 0; i < bars.length; i++){
+	for(var i = bars.length - 1; i >= 0; i--){
 
 		// run each object's method's
 		bars[i].show();
