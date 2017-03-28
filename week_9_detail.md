@@ -11,34 +11,35 @@
 </tr>
 <!-- dates -->
 <tr>
-  <td valign="top">8</td>
-  <td valign="top" width="48%"><strong>March 21</strong></td>
-  <td valign="top" width="48%"><strong>March 23</strong></td>
+  <td valign="top">9</td>
+  <td valign="top" width="48%"><strong>March 28</strong></td>
+  <td valign="top" width="48%"><strong>March 30</strong></td>
 </tr>
 <!-- class -->
 <tr>
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	Vectors <br>
+	Vectors II - Forces <br>
 	Show & Tell <br>
+	Rotation + Trig<br>
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	Vectors + Forces<br>
+	String Manipulation + API <br>
 	Show & Tell <br>
-	In-Class Challenge ? <br>		
+		
 	</td>
 <!-- homework -->
 <tr>
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-	<a href ="http://natureofcode.com/">Nature of Code: READ Chapter 1 + 2 </a><br>
+	<a href ="http://natureofcode.com/">Nature of Code: Skim Chapter 3; Read the first part of Chapter 6 </a><br>
 	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
-  	<a href ="http://natureofcode.com/">Nature of Code: READ Chapter 1 + 2 </a><br>
+  	Learning Processing: Review Chapter 17 + 18 </a><br>
   	</td>
  </tr>
  <!-- do -->
@@ -46,11 +47,17 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>		
+ 		<a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>	
+ 		Sketch your ideas for your final <br>
+ 		Research programming aspects necessary <br>	
+ 		Research other inspirations <br>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
+		<a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>	
+ 		Sketch your ideas for your final <br>
+ 		Research programming aspects necessary <br>	
+ 		Research other inspirations <br>
   	</td>	
 </tr>
 </table>
