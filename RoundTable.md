@@ -3,20 +3,21 @@
 ### Due April 11 via your Github repo for the final project
 
 #### 15% of your final grade (10% research + presentation; 5% participation re: others' presentations and ideas)
-
+<html>
+<body></body>
 <ol>
 <li> Use the 1 one of the [storyboard templates](storyboardTemplates). </li>
 
 <li> Develop 4 DIFFERENT ideas for a [final project](Final_Project.md). For each idea, use the templates to illustrate: </li>
-		<ol>
-		<li> What it would look like through various stages (interaction, time) </li>
+	
+		[ ] What it would look like through various stages (interaction, time)
 
-		<li> Show the various stages on a macro-scale (far away) and micro-scale (close up, zoomed in)</li>
+		[ ] Show the various stages on a macro-scale (far away) and micro-scale (close up, zoomed in)
 
-		<li>System design: What does your software interact with? Humans? Then show the interface AND the system design. Other software? Draw a software map showing when, how and under what conditions the pieces of software interact. </li>
+		[ ] System design: What does your software interact with? Humans? Then show the interface AND the system design. Other software? Draw a software map showing when, how and under what conditions the pieces of software interact.
 
 		**You must do this entire process 4 times - once for each idea**
-			</ol>
+
 <li> Bring in outside references, links and resources demonstrating: </li>
 
 		[ ] Similar artists, designers, projects, games, methods, visuals, audio
@@ -33,3 +34,5 @@
 </ol>
 
 Due April 11 *POSTED TO YOUR GITHUB repo* 
+</body>
+</html>
