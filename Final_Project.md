@@ -6,7 +6,8 @@
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
 
-## Final Project: Choice   25% of your Final Grade## Final Project Milestone <sup>1</sup>   5%  of your Final Grade
+## Final Project: Choice   25% of your Final Grade
+## Final Project Milestone <sup>1</sup>   5%  of your Final Grade
 
 ## Dates: 
 
@@ -24,17 +25,15 @@
 
 
 
-_This is the culmination of this class. As a result, I expect you to not only demonstrate an understanding of concepts discussed this far, but a greater sophistication of them as well. In addition, your project should develop beyond the ideas discussed at the round table and your project should incorporate and include concepts discussed after week 8 (ie, string manipulation, 3rd party libraries, API's, vectors + forces, etc). 
+_This is the culmination of this class. As a result, I expect you to not only demonstrate an understanding of concepts discussed this far, but a greater sophistication of them as well. In addition, your project should develop beyond the ideas discussed at the round table and your project should incorporate and include concepts discussed after week 8 (ie, string manipulation, 3rd party libraries, API's, vectors + forces, etc)._
 
-If you need assistance planning out your project stages, please come hang out with me in my office hours. If you can't meet durining that time, email me._
+_If you need assistance planning out your project stages, please come hang out with me in my office hours. If you can't meet durining that time, email me._
 
 **Good Luck!**
 
 
 
-<sup>1</sup> The Final Project Milestone is your choice of either of the following: a stellar working prototype that is quite advanced OR a technical achievement is present in your final version (or earlier push/version). 
-
-A technical achievement is something that is _beyond_ what's covered in class directly - a concept, intergration of a 3rd Party library - something you've learned _independently_. List your resources (video's, forum posts, outside texts) and comment your code all the way.
+<sup>1</sup> The Final Project Milestone is your choice of either of the following: a stellar working prototype that is quite advanced OR a technical achievement is present in your final version (or earlier push/version). A technical achievement is something that is _beyond_ what's covered in class directly - a concept, intergration of a 3rd Party library - something you've learned _independently_. List your resources (video's, forum posts, outside texts) and comment your code all the way.
 
 
 
