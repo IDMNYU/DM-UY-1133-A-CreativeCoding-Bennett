@@ -6,20 +6,20 @@
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
 
-# Final Project: Choice   25% of your Final Grade
-# Final Project Milestone*  5%  of your Final Grade
+## Final Project: Choice   25% of your Final Grade
+## Final Project Milestone*  5%  of your Final Grade
 
 ## Dates: 
 
 ### Working Prototype Due: Thursday April 20th
-### Beta Version Due Thursday April 27th
+### Beta Version Due: Thursday April 27th
 ### Alpha Version Due: Tuesday May 2nd for inclass presentations
 
-Working Prototype: All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality.
+*Working Prototype:<sup>1</sup> All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality.
 
-Beta Version: Greater sophistication of your code should be evident along with interactivity/time elements/working API's/3rd Party Libraries (ie, physics engines, sound, animation, etc). Your code should be working. Bugs are present, but you've already squashed quite a few. Several things may still need to be worked out
+*Beta Version:* Greater sophistication of your code should be evident along with interactivity/time elements/working API's/3rd Party Libraries (ie, physics engines, sound, animation, etc). Your code should be working. Bugs are present, but you've already squashed quite a few. Several things may still need to be worked out
 
-Alpha Version: No bugs present. Smooth functionality to your code: interactivity, time, API's, smooth intergration with 3rd Party Libraries
+*Alpha Version:* No bugs present. Smooth functionality to your code: interactivity, time, API's, smooth intergration with 3rd Party Libraries
 
 
 
@@ -33,7 +33,7 @@ Good Luck!
 
 
 
-* The Final Project Milestone is your choice of either of the following: a stellar working prototype that is quite advanced OR a technical achievement is present in your final version (or earlier push/version). 
+<sup>1</sup> The Final Project Milestone is your choice of either of the following: a stellar working prototype that is quite advanced OR a technical achievement is present in your final version (or earlier push/version). 
 
 A technical achievement is something that is _beyond_ what's covered in class directly - a concept, intergration of a 3rd Party library - something you've learned _independently_. List your resources (video's, forum posts, outside texts) and comment your code all the way.
 
