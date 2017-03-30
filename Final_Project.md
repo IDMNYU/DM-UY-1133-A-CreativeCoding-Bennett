@@ -7,7 +7,7 @@
 
 
 ## Final Project: Choice   25% of your Final Grade
-## Final Project Milestone*  5%  of your Final Grade
+## Final Project Milestone <sup>1</sup>   5%  of your Final Grade
 
 ## Dates: 
 
@@ -15,11 +15,11 @@
 ### Beta Version Due: Thursday April 27th
 ### Alpha Version Due: Tuesday May 2nd for inclass presentations
 
-*Working Prototype:<sup>1</sup> All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality.
+**Working Prototype:**All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality.
 
-*Beta Version:* Greater sophistication of your code should be evident along with interactivity/time elements/working API's/3rd Party Libraries (ie, physics engines, sound, animation, etc). Your code should be working. Bugs are present, but you've already squashed quite a few. Several things may still need to be worked out
+**Beta Version:** Greater sophistication of your code should be evident along with interactivity/time elements/working API's/3rd Party Libraries (ie, physics engines, sound, animation, etc). Your code should be working. Bugs are present, but you've already squashed quite a few. Several things may still need to be worked out
 
-*Alpha Version:* No bugs present. Smooth functionality to your code: interactivity, time, API's, smooth intergration with 3rd Party Libraries
+**Alpha Version:** No bugs present. Smooth functionality to your code: interactivity, time, API's, smooth intergration with 3rd Party Libraries
 
 
 
