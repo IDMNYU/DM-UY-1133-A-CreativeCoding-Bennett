@@ -4,7 +4,7 @@
 
 #### 15% of your final grade (10% research + presentation; 5% participation re: others' presentations and ideas)
 <html>
-<body></body>
+<body>
 <ol>
 <li> Use the 1 one of the [storyboard templates](storyboardTemplates). </li>
 
