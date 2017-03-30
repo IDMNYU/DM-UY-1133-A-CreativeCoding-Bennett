@@ -245,13 +245,17 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 • In-class challenges   5%
 
-• Exercises	            15%
+• Sketches            15%
 
 • Project 1: Adjective (critiqued)		20%
 
-• Project 2: TBA (on-line critique)		20%
+~• Project 2: TBA (on-line critique)		20%~
 
-• Project 3: Choice (critiqued)			25%
+• RoundTable Presentation     15%  
+
+• Final Project Milestone     5%  (either early or technical)
+
+• Final Project: Choice (critiqued)			25%
 
 For each project your grade will be assessed upon the following: Principles, Creativity/Thoughtfulness, Craft. Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
 
