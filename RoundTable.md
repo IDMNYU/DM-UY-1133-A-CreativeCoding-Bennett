@@ -5,12 +5,10 @@
 #### 15% of your final grade (10% research + presentation; 5% participation re: others' presentations and ideas)
 
 
-1. Use the 1 one of the storyboard templates (see this repo for the folder). 
+1. Use the 1 one of the [storyboard templates](storyboardTemplates). 1
 
-2. Develop 4 DIFFERENT ideas for a [final project](Final_Project.md). For each idea:
+2. Develop 4 DIFFERENT ideas for a [final project](Final_Project.md). For each idea, use the templates to illustrate: 2
 
-	* Use the template to illustrate:
-	
 		[ ] What it would look like through various stages (interaction, time)
 
 		[ ] Show the various stages on a macro-scale (far away) and micro-scale (close up, zoomed in)
@@ -19,7 +17,7 @@
 
 		**You must do this entire process 4 times - once for each idea**
 
-3. Bring in outside references, links and resources demonstrating:
+3. Bring in outside references, links and resources demonstrating: 3
 
 			[ ] Similar artists, designers, projects, games, methods, visuals, audio
 
@@ -29,9 +27,9 @@
 
 	**You must do this entire process 4 times - once for each idea**
 
-4. Prepare a 4 minute presentation on these 4 ideas. Have your links ready to go, images scanned and slides ready. Be able to discuss your idea.
+4. Prepare a 4 minute presentation on these 4 ideas. Have your links ready to go, images scanned and slides ready. Be able to discuss your idea. 4
 
-5. Create a Repo for this Final Project. Upload a folder called "RoundTable Presentation" to your repo with all of the above materials inside of it.
+5. Create a Repo for this Final Project. Upload a folder called "RoundTable Presentation" to your repo with all of the above materials inside of it. 5
 
 
 Due April 11 *POSTED TO YOUR GITHUB repo* 
