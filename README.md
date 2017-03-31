@@ -7,7 +7,8 @@ Creative Coding Syllabus &amp; Class repo
 * **Office Hours: Tues + Thur 4:20-6:30pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 881**
 
-* **GA:TBA **
+* **GA:Kelly Chang Email: khc385@nyu.edu**
+* **Creative Coding Club hours: Tues/Thurs 4:30 - 6:30, Friday 2:00 - 4:00 pm   ROOM  824 **
 
 
 # Creative Coding: An Intro to Creative Coding
@@ -205,7 +206,7 @@ Do the follow these steps for each assignment:
 	* 2. Create a new repository on your GitHub account online. The repository should be titled CC_Ex#, filling in the number of the exercise. Include the README.md option
 	* 3. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
 
-##[Show and Tell](ShowAndTell.md)
+## [Show and Tell](ShowAndTell.md)
 
 You will be assigned a [Show and Tell presentation date here](ShowAndTell.md). Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 5-7 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: 
 
