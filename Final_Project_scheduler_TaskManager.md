@@ -27,3 +27,5 @@ Begin working on your [final project](Final_Project.md) by doing the following:
  	   
 
 #### Send me this document in Slack as a direct message before April 18th. Also upload it to your Github Final Project repo. 
+
+#### Get coding on your Final Project!  Good Luck!
