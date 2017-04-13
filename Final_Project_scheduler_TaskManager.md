@@ -5,13 +5,10 @@
 
  When ever working on a large project, especially one that involved multiple components, it's intergral to map out that project in order to manager your time and tasks appropriately.
 
-Begin working on your [final project](Final_Project.md) by doing the following: <br>
+Begin working on your [final project](Final_Project.md) by doing the following: 
 
 
-* Using the Project Goals/Scheduler in the Resources Channel of Slack, craft a 3 sentence project statement (think elevator pitch) that tells a Grandmother what your project is about and what it does. 
- 
-
-Add other information as needed, but keep it brief - specific but at a high level. <br>
+* Using the Project Goals/Scheduler in the Resources Channel of Slack, craft a 3 sentence project statement (think elevator pitch) that tells a Grandmother what your project is about and what it does. Add other information as needed, but keep it brief - specific but at a high level. 
 
 
 * List out specific goals for the project. Possible examples: Develop 5 puzzles, successful use of The New York Times API, utilizing vectors to create movement, creating 5 different classes each with several methods that gets utilized through the project, creating 4 different types of interaction, creating a state machine to manage graphics/interaction, thoughtful intergration of sound, intergration of sensors, etc. 
