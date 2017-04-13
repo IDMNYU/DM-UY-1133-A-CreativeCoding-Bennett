@@ -8,25 +8,24 @@
 Begin working on your [final project](Final_Project.md) by doing the following: <br>
 
 
-1. Using the Project Goals/Scheduler in the Resources Channel of Slack, craft a 3 sentence project statement (think elevator pitch) that tells a Grandmother what your project is about and what it does. 
+* Using the Project Goals/Scheduler in the Resources Channel of Slack, craft a 3 sentence project statement (think elevator pitch) that tells a Grandmother what your project is about and what it does. 
  
 
 Add other information as needed, but keep it brief - specific but at a high level. <br>
 
 
-2. List out specific goals for the project. Possible examples: Develop 5 puzzles, successful use of The New York Times API, utilizing vectors to create movement, creating 5 different classes each with several methods that gets utilized through the project, creating 4 different types of interaction, creating a state machine to manage graphics/interaction, thoughtful intergration of sound, intergration of sensors, etc. 
+* List out specific goals for the project. Possible examples: Develop 5 puzzles, successful use of The New York Times API, utilizing vectors to create movement, creating 5 different classes each with several methods that gets utilized through the project, creating 4 different types of interaction, creating a state machine to manage graphics/interaction, thoughtful intergration of sound, intergration of sensors, etc. 
 
 
 
-3. In the 31-Day Challenge area, list your inspirations, resources, references that you are going to pull from. These should be diverse and beyond the supplied textbooks.
+* In the 31-Day Challenge area, list your inspirations, resources, references that you are going to pull from. These should be diverse and beyond the supplied textbooks.
 
  	    
 
-4. Then, break each of your goals down into smaller tasks. Stage these smaller tasks as goals for each of the 3-4 weeks. Break things down into decipherable tasks. 
+* Then, break each of your goals down into smaller tasks. Stage these smaller tasks as goals for each of the 3-4 weeks. Break things down into decipherable tasks. 
 
 
-5. Review the Final Briefing for the milestone requirements for your working prototype, beta version and alph version. Factor in what needs to be acheived by these dates with reference to your project and fill in your project plan accordingly.
+* Review the Final Briefing for the milestone requirements for your working prototype, beta version and alph version. Factor in what needs to be acheived by these dates with reference to your project and fill in your project plan accordingly.
  	   
 
 #### Send me this document in Slack as a direct message before April 18th. Also upload it to your Github Final Project repo. 
- 	   

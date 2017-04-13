@@ -45,14 +45,17 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 	
- 		Begin working on your final project by doing all of <a href = "Final_Project_scheduler_TaskManager.md">this</a> <br>
+ 		Begin working on your final project by doing all of <a href = "Final_Project_scheduler_TaskManager.md">this</a> <br> <br>
  	    Send me this document as a PDF in a Slack Direct Message before Tuesday April 18th. <br>
  	    <br>
  	    Begin working on the first week's goals.<br>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-		
+		Begin working on your final project by doing all of <a href = "Final_Project_scheduler_TaskManager.md">this</a> <br> <br>
+ 	    Send me this document as a PDF in a Slack Direct Message before Tuesday April 18th. <br>
+ 	    <br>
+ 	    Begin working on the first week's goals.<br>
   	</td>	
 </tr>
 </table>
