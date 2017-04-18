@@ -1,7 +1,7 @@
 ### Assignments for DM1133-A Creative Coding
 
 * **Katherine Bennett, Visiting Assistant Professor**
-* **Email:Katherine.Bennett@nyu.edu** 
+* **Email: Katherine.Bennett@nyu.edu** 
 * **Office Hours: Tues + Thur 4:20-6:30 pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
@@ -27,7 +27,7 @@
 
 _This is the culmination of this class. As a result, I expect you to not only demonstrate an understanding of concepts discussed this far, but a greater sophistication of them as well. In addition, your project should develop beyond the ideas discussed at the round table and your project should incorporate and include concepts discussed after week 8 (ie, string manipulation, 3rd party libraries, API's, vectors + forces, etc)._
 
-_If you need assistance planning out your project stages, please come hang out with me in my office hours. If you can't meet durining that time, email me._
+_If you need assistance planning out your project stages, check out the resources section of Slack. I've uploaded a few designs to help layout tasks and manage time. If you need help figuring out what tasks to tackle first, please come hang out with me in my office hours. If you can't meet during that time, email me._
 
 **Good Luck!**
 
