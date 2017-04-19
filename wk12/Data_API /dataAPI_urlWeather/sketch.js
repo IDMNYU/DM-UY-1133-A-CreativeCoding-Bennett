@@ -4,9 +4,15 @@ var font;
 var current;
 
 function preload() {
-  weatherData = loadJSON("data/test.json");
+  // try it with test data first before moving on to the API
+  //weatherData = loadJSON("data/test.json");
+
+  // this initial query is successful, but the temperature is quite off
+  // looking further, the default temperature is in Kelvin
   //var url = 'http://api.openweathermap.org/data/2.5/weather?zip=11201,us&APPID=3e70b996f07e3fab50b02acbcd0576bc';
- // var url = 'http://api.openweathermap.org/data/2.5/weather?units=imperial&zip=11201,us&APPID=aa5fdf4f32680b891d02b22a82a84e3c';
+  
+  // below then passes the imperial format to our query so that we get Farenheit temperatures back
+  var url = 'http://api.openweathermap.org/data/2.5/weather?units=imperial&zip=11201,us&APPID=aa5fdf4f32680b891d02b22a82a84e3c';
   weatherData = loadJSON(url);
   font = loadFont('data/font.otf');
   
@@ -15,8 +21,12 @@ function preload() {
 function setup() {
   createCanvas(500, 500);
   background(0);
-  temp = getTemp(weatherData);
-  current = getCurrentConditions(weatherData);
+  
+  //temp = getTemp(weatherData);
+  temp = weatherData.main.temp;
+
+  //current = getCurrentConditions(weatherData);
+  current = weatherData.weather[0].description;
   console.log(temp);
 }
 
@@ -35,13 +45,15 @@ function draw() {
   
 }
 
+// old code that not longer works with the latest version of p5:
 
 function getTemp(data) {
- 
-  var main = data.main;
+  var main = data.temp;
+  //console.log(main.temp);
   var t = main.temp;
+  console.log(t);
   return t;
-  //return data.main.temp;
+ // return data.main.temp;
 
 
 }
