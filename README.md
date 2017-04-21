@@ -8,7 +8,7 @@ Creative Coding Syllabus &amp; Class repo
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 881**
 
 * **GA:Kelly Chang Email: khc385@nyu.edu**
-* **Creative Coding Club hours: Tues/Thurs 4:30 - 6:30, Friday 2:00 - 4:00 pm   ROOM  824 **
+* **Creative Coding Club hours: Tues/Thurs 4:30 - 6:30 MANGET ROOM 824, Friday 2:00 - 4:00 pm  MANGET ROOM  811**
 
 
 # Creative Coding: An Intro to Creative Coding
