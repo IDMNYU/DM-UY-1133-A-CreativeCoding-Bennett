@@ -35,4 +35,4 @@ Using Word or another text editor, reflect on the following:
 
 • Each repo is named after the assignment and with all of the work, code, documentation, support files, editions. Leave the other repository up there if you have multiple ones. Just name sure to make a new one if you currently have multiple repository for one assignment 
 
-# All of the above must be submitted by Noon Friday - 5/12/16.
+# All of the above must be submitted by Noon Friday - 5/12/17.
